@@ -154,7 +154,7 @@ def scrape_multiple_pages(base_url, pages=5, delay=3):
             except Exception as e:
                 logging.error(f"Error scraping page {page}: {e}")
             
-            if page % 4 == 0:
+            if page % 3 == 0:
                 renew_tor_ip()  # Change IP every 3 pages
             
             time.sleep(random.uniform(delay - 1, delay + 1))  # Randomized delay to prevent blocking
