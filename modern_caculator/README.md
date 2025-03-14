@@ -3,6 +3,8 @@
 ## Overview
 Modern Calculator is a simple yet powerful desktop calculator built with Python and Tkinter. It features a clean and modern UI with essential mathematical operations, including basic arithmetic, percentage calculations, exponentiation, square roots, and more.
 
+![Image](https://github.com/chiemekaifemegbulem/Useful_tools/blob/main/modern_caculator/assets/Screenshot%20from%202025-03-14%2012-33-52.png)
+
 ## Features
 - **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
 - **Advanced Functions**: Exponentiation (^), square root (√), reciprocal (1/x), and scientific constants (π, e).
